@@ -2,6 +2,7 @@
 title: Peng Education in Kyrgyzstan
 date: 2025-06-10
 type: landing
+share: false
 
 sections:
   - block: hero
